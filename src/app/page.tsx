@@ -791,7 +791,7 @@ export default function Home() {
               <div style={{ marginTop:"2.5rem", paddingTop:"2rem", borderTop:"1px solid rgba(0,0,0,0.06)", display:"flex", gap:"2rem", flexWrap:"wrap" }}>
                 {[
                   { label:"Hotline", value:"086 59 22222" },
-                  { label:"Email", value:"phamtiendatit@gmail.com" },
+                  { label:"Email", value:"hi@dat.digital" },
                   { label:"Thời gian", value:"8:00 – 22:00 mỗi ngày" },
                 ].map(item=>(
                   <div key={item.label}>

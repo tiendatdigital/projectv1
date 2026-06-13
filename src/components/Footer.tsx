@@ -115,7 +115,7 @@ export default function Footer() {
             </h4>
             {[
               { icon: "📞", label: "Hotline", value: "086 59 22222" },
-              { icon: "✉️", label: "Email", value: "phamtiendatit@gmail.com" },
+              { icon: "✉️", label: "Email", value: "hi@dat.digital" },
               { icon: "⏰", label: "Giờ hỗ trợ", value: "8:00 – 22:00 hàng ngày" },
             ].map(c => (
               <div key={c.label} style={{ display: "flex", gap: "0.75rem", marginBottom: "1rem", alignItems: "flex-start" }}>
