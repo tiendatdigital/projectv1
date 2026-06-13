@@ -4,7 +4,6 @@ import Link from "next/link";
 import { useState, useEffect } from "react";
 
 const NAV_ITEMS = [
-  { href: "/", label: "Trang chủ" },
   { 
     href: "#dich-vu", 
     label: "Dịch vụ",
